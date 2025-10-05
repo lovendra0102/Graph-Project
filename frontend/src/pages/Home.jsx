@@ -119,7 +119,7 @@ const HomePage = () => {
         </span>
         {/* Right Section */}
         <span className="text-gray-600 font-medium">
-          Built by <a href="https://www.linkedin.com/in/adarsh-kumar0412/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-500 transition-colors duration-200">Adarsh Kumar</a> &middot; DTU &middot; 2026
+          Built by <a href="https://www.linkedin.com/in/lovendra-kumar-ba8638270/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-500 transition-colors duration-200">Lovendra Kumar</a> &middot; DTU &middot; 2026
         </span> {/* Changed year back to 2025 as per original request */}
       </footer>
 
