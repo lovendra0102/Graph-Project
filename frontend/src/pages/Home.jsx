@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import bgImage from "../assets/network-bg.png"; // Ensure this image exists!
+import bgImage from "../assets/Lalit photo.png"; // Ensure this image exists!
 
 const HomePage = () => {
   const navigate = useNavigate();
