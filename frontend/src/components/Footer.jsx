@@ -31,7 +31,7 @@ export default function Footer() {
         
         {/* Right: Copyright */}
         <p className="text-sm text-gray-200 md:text-right">
-          &copy; 2025 <span className="font-semibold text-white">Lovendra Kumar</span>
+          &copy; 2025 <span className="font-semibold text-white">Lalit Kumar Yadav</span>
           <span className="ml-2 text-gray-400">| All rights reserved.</span>
         </p>
       </div>
