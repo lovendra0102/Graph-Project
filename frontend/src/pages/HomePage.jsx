@@ -154,7 +154,7 @@ const HomePage = () => {
             </div>
             </div>
         </div>
-        <p className="mt-4 text-gray-700 font-semibold drop-shadow animate-fade-in-up animation-delay-500">Built by Lovendra Kumar</p>
+        <p className="mt-4 text-gray-700 font-semibold drop-shadow animate-fade-in-up animation-delay-500">Built by Lalit Kumar Yadav</p>
         </div>
     </div>
     </section>
