@@ -6,7 +6,7 @@ import AboutSection from "../components/AboutSection";
 import Footer from "../components/Footer";
 import { FaMapMarkedAlt, FaProjectDiagram, FaListOl, FaWrench } from "react-icons/fa";
 import { motion } from "framer-motion";
-import ProfilePic from '../assets/profilepic2.jpg';
+import ProfilePic from '../assets/Lalit-photo.jpg';
 // or
 
 
